@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 
 <h1 align="center">
-    <img alt="PHP" src="assets/php-banner.png" height="250px" />
+    <img alt="PHP" src="assets/php-banner.png"/>
     <br>🎓🐘 Formação PHP - TreinaWEB 🐘🎓<br/>
 </h1>
 
