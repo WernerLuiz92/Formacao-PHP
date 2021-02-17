@@ -48,12 +48,12 @@ A formação **Desenvolvedor PHP** da [TreinaWEB](https://www.treinaweb.com.br/f
 
 [Sobre o Curso](https://www.treinaweb.com.br/curso/logica-de-programacao)
 
-<p>36 horas
-62 exercícios
-15 desafios de código</p>
+* 36 horas
+* 62 exercícios
+* 15 desafios de código
 <br/>
-<p>Repositório: 
-Certificado: </p>
+* Repositório: 
+* Certificado:
 
 <img src="assets/02_logica-orientada-objetos.png" alt="02 - Lógica Orientada a Objetos Completo" width="50" height="50">
 
