@@ -43,22 +43,33 @@ A formação **Desenvolvedor PHP** da [TreinaWEB](https://www.treinaweb.com.br/f
 ### O que será visto?
 
 #### 01 - Lógica de Programação
+<img alt="01 - Lógica de Programação" src="assets/01_logica-de-programacao.png" height="130px"/>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax"><img alt="01 - Lógica de Programação" src="assets/01_logica-de-programacao.png" height="130px"/></th>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
+    <th class="tg-73oq" rowspan="4"><img src="assets/01_logica-de-programacao.png" alt="01 - Lógica de Programação" width="75" height="75"></th>
+    <th class="tg-73oq">01 - Lógica de Programação</th>
+  </tr>
+  <tr>
+    <td class="tg-73oq">36 Horas<br>62 Exercícios<br>15 Desafios de Código<br></td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">Repositório: </td>
+  </tr>
+  <tr>
+    <td class="tg-73oq">Certificado: </td>
   </tr>
 </thead>
 </table>
+
 
 https://www.treinaweb.com.br/curso/logica-de-programacao
