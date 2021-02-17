@@ -75,3 +75,30 @@ A formação **Desenvolvedor PHP** da [TreinaWEB](https://www.treinaweb.com.br/f
 </thead>
 </table>
 
+<table>
+<thead>
+  <tr>
+    <th rowspan="4"><img src="assets/01_logica-de-programacao.png" alt="01 - Lógica de Programação" width="75" height="75"></th>
+    <th><a href="https://www.treinaweb.com.br/curso/logica-de-programacao" target="_blank" rel="noopener noreferrer">01 - Lógica de Programação</a></th>
+    <th rowspan="4"><img src="assets/02_logica-orientada-objetos.png" alt="02 - Lógica Orientada a Objetos" width="75" height="75"></th>
+    <th><a href="https://www.treinaweb.com.br/curso/logica-orientada-a-objetos" target="_blank" rel="noopener noreferrer">02 - Lógica Orientada a Objetos</a></th>
+    <th rowspan="4"><img src="assets/03_html5-css3-fundamentos.png" alt="03 - HTML5 + CSS3 - Fundamentos" width="75" height="75"></th>
+    <th><a href="https://www.treinaweb.com.br/curso/logica-de-programacao" target="_blank" rel="noopener noreferrer">03 - HTML5 + CSS3 - Fundamentos</a></th>
+  </tr>
+  <tr>
+    <td>36 Horas<br>62 Exercícios<br>15 Desafios de Código<br></td>
+    <td>24 Horas<br>37 Exercícios<br>12 Desafios de Código<br></td>
+    <td>18 Horas<br>41 Exercícios<br>15</td>
+  </tr>
+  <tr>
+    <td>Repositório: </td>
+    <td>Repositório: </td>
+    <td>Repositório: </td>
+  </tr>
+  <tr>
+    <td>Certificado: </td>
+    <td>Certificado: </td>
+    <td>Certificado: </td>
+  </tr>
+</thead>
+</table>
