@@ -42,6 +42,6 @@ A formação **Desenvolvedor PHP** da [TreinaWEB](https://www.treinaweb.com.br/f
 
 ### O que será visto?
 
-<h2 align="left">
+<h2 vertical-align="middle">
     <a a href="https://www.treinaweb.com.br/curso/logica-de-programacao" target="_blank"><img src="assets/01_logica-de-programacao.png" alt="01 - Lógica de Programação" width="50" height="50"> 01 - Lógica de Programação</a>
 </h2>
