@@ -38,7 +38,7 @@ Enquanto isso, JavaScript pode ser usado tanto para o front-end quanto para o ba
 
 ## 🎓 Sobre a formação
 
-A formação **Desenvolvedor PHP** da (TreinaWEB)[https://www.treinaweb.com.br/formacao/desenvolvedor-php] é constituida por 20 cursos que totalizam mais de 102 horas de aula e 647 exercícios.
+A formação **Desenvolvedor PHP** da [TreinaWEB](https://www.treinaweb.com.br/formacao/desenvolvedor-php) é constituida por 20 cursos que totalizam mais de 102 horas de aula e 647 exercícios.
 
 ### O que será visto?
 
