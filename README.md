@@ -43,6 +43,22 @@ A formação **Desenvolvedor PHP** da [TreinaWEB](https://www.treinaweb.com.br/f
 ### O que será visto?
 
 #### 01 - Lógica de Programação
-<img alt="01 - Lógica de Programação" src="assets/01_logica-de-programacao.png" height="130px"/>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><img alt="01 - Lógica de Programação" src="assets/01_logica-de-programacao.png" height="130px"/></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+</table>
 
 https://www.treinaweb.com.br/curso/logica-de-programacao
