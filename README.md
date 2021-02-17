@@ -2,7 +2,9 @@
 
 <h1 align="center">
     <img alt="PHP" src="assets/php-banner.png"/>
-    <br>🎓🐘 Formação PHP - TreinaWEB 🐘🎓<br/>
+    <br/>
+    <br/>
+    🎓🐘 Formação PHP - TreinaWEB 🐘🎓
 </h1>
 
 ## Descrição do Projeto
