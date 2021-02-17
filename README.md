@@ -43,9 +43,11 @@ A formação **Desenvolvedor PHP** da [TreinaWEB](https://www.treinaweb.com.br/f
 ### O que será visto?
 
 <img src="assets/01_logica-de-programacao.png" alt="01 - Lógica de Programação" width="50" height="50">
+
 ### 01 - Lógica de Programação
 
 [Sobre o Curso](https://www.treinaweb.com.br/curso/logica-de-programacao)
+
 36 horas
 62 exercícios
 15 desafios de código
@@ -54,9 +56,11 @@ Repositório:
 Certificado: 
 
 <img src="assets/02_logica-orientada-objetos.png" alt="02 - Lógica Orientada a Objetos Completo" width="50" height="50">
+
 ### 02 - Lógica Orientada a Objetos Completo
 
 [Sobre o Curso](https://www.treinaweb.com.br/curso/logica-orientada-a-objetos)
+
 24 horas
 37 exercícios
 12 desafios de código
@@ -65,9 +69,11 @@ Repositório:
 Certificado:
 
 <img src="assets/03_html5-css3-fundamentos.png" alt="03 - HTML5 + CSS3 - Fundamentos" width="50" height="50">
+
 ### 03 - HTML5 + CSS3 - Fundamentos
 
 [Sobre o Curso](https://www.treinaweb.com.br/curso/html5-css3-fundamentos)
+
 18 horas
 41 exercícios
 
