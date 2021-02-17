@@ -46,7 +46,7 @@ A formação **Desenvolvedor PHP** da [TreinaWEB](https://www.treinaweb.com.br/f
 <thead>
   <tr>
     <th rowspan="4"><img src="assets/01_logica-de-programacao.png" alt="01 - Lógica de Programação" width="75" height="75"></th>
-    <th>01 - Lógica de Programação</th>
+    <th>[01 - Lógica de Programação](https://www.treinaweb.com.br/curso/logica-de-programacao)</th>
   </tr>
   <tr>
     <td>36 Horas<br>62 Exercícios<br>15 Desafios de Código<br></td>
@@ -58,7 +58,20 @@ A formação **Desenvolvedor PHP** da [TreinaWEB](https://www.treinaweb.com.br/f
     <td>Certificado: </td>
   </tr>
 </thead>
+<thead>
+  <tr>
+    <th rowspan="4"><img src="assets/02_logica-orientada-objetos.png" alt="02 - Lógica Orientada a Objetos" width="75" height="75"></th>
+    <th>[02 - Lógica Orientada a Objetos](https://www.treinaweb.com.br/curso/logica-orientada-a-objetos)</th>
+  </tr>
+  <tr>
+    <td>24 Horas<br>37 Exercícios<br>12 Desafios de Código<br></td>
+  </tr>
+  <tr>
+    <td>Repositório: </td>
+  </tr>
+  <tr>
+    <td>Certificado: </td>
+  </tr>
+</thead>
 </table>
 
-
-https://www.treinaweb.com.br/curso/logica-de-programacao
