@@ -4,7 +4,7 @@
     <img alt="PHP" src="assets/php-banner.png"/>
     <br/>
     <br/>
-    🎓🐘 Formação PHP - TreinaWEB 🐘🎓
+    🎓🐘 Formação PHP 🐘🎓
 </h1>
 
 ## 🧑‍💻Desenvolvedor PHP
@@ -36,9 +36,11 @@ Ele também é um subconjunto de linguagens de scripts como JavaScript e Python.
 
 Enquanto isso, JavaScript pode ser usado tanto para o front-end quanto para o back-end – e Python é apenas para o lado do servidor (back-end).
 
+🚧🚧🚧 Em Construção 🚧🚧🚧
+
 ## 🎓 Sobre a formação
 
-A formação **Desenvolvedor PHP** da [TreinaWEB](https://www.treinaweb.com.br/formacao/desenvolvedor-php) é constituida por 20 cursos que totalizam mais de 102 horas de aula e 647 exercícios.
+A formação **Desenvolvedor PHP** é constituida por diversos cursos que englobam o conhecimento da linguagem.
 
 ### O que será visto?
 
